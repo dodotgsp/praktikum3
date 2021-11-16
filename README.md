@@ -6,7 +6,7 @@
 
 # LABSPY01
 <h1> Latihan 1 <h1>
-<<h1> Program menentukan nilai terbesar dari 2 bilangan <h1>
+<h1> Program menentukan nilai terbesar dari 2 bilangan <h1>
 <p> program sederhana dengan input dua buah bilangan yang diinputkan, dari ketiga bilangan
 tersebut tampilkan bilangan terbesarnya. program ini menggunakan statement if...elif. <p>
 <p> berikut code nya <p>
@@ -129,3 +129,38 @@ tersebut tampilkan bilangan terbesarnya. program ini menggunakan statement if...
 ![gambar 12](labspy02/ss/12.png)
 
 # LABSPY03 
+<h1> Latihan 1 <h1>
+<h1> Program menampilkan n bilangan acak yang lebih kecil 0.5 <h1>
+<p> Berikut code nya <p>
+
+![gambar 1](labspy03/ss/1.png)
+<p> hasil run seperti berikut <p>
+
+![gambar 2](labspy03/ss/2.png)
+
+<h1> Latihan 2 <h1>
+<h1> Menampilkan bilangan terbesar dari n buah data yang diinputkan <h1>
+<p> program akan mengulang untuk memasukan bilangan, program akan berhenti ketika data yang diinputkan adalah 0 <p>
+<p> berikut code nya <p>
+
+![gambar 3](labspy03/ss/3.png)
+<p>kemudian run, masukan data hingga program berhenti mengulang. hasil run nya seperti berikut <p>
+
+![gambar 4](labspy03/ss/4.png)
+
+<h1> Program 1 <h1>
+<h1> Laba investasi <h1>
+<p> Program pengulangan dengan kondisi Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
+modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada
+bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5,
+pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan
+keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8
+bulan berjalan usahanya. <p>
+<p> berikut code nya <p>
+
+![gambar 5](labspy03/ss/5.png)
+<p> kemudian run, masukan uang muka (100 juta). maka hasil run seperti berikut <p>
+
+![gambar 6](labspy03/ss/6.png)
+
+<h2> Selesai <h2>
