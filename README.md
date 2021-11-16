@@ -5,6 +5,49 @@
 <h1> TUGAS BAHASA PEMOGRAMAN <h1>
 
 # LABSPY01
+<h1> Latihan 1 <h1>
+<<h1> Program menentukan nilai terbesar dari 2 bilangan <h1>
+<p> program sederhana dengan input dua buah bilangan yang diinputkan, dari ketiga bilangan
+tersebut tampilkan bilangan terbesarnya. program ini menggunakan statement if...elif. <p>
+<p> berikut code nya <p>
+
+![gambar 1](labspy01/ss/1.png)
+<p> kemudian run, input dua bilangan. misal 7629 dan 7382 <p>
+<p> maka hasil run nya seperti berikut <p>
+
+![gambar 2](labspy01/ss/2.png)
+<p> nilai terbesar adalah 7629
+
+<h1> latihan 2 <h1>
+<h1> Mengurutkan data dari yang terkecil hingga terbesar <h1>
+<p> ketika memasukan banyak angka, program akan mengurtkan data dari yang terkecil hingga terbesar <p>
+<p> berikut code nya <p>
+
+![gambar 3](labspy01/ss/3.png)
+<p> kemudian run, input 5 angka . misal angka nya adalah 629, 463,964,184,182 <p>
+<p> maka hasil run seperti berikut <p>
+
+![gambar 4](labspy01/ss/4.png)
+
+<h1> Latihan 3 <h1>
+<h1> Program dengan perulangan bertingkat (nested) for <h1>
+<p> berikut code nya <p>
+
+![gambar 5](labspy01/ss/5.png)
+<p> maka hasil run seperti berikut <p>
+
+![gambar 6](labspy01/ss/6.png)
+
+<h1> Latihan 4 <h1>
+<h1> Menampilkan n bilangan acak yang lebih kecil dari 0.5 <h1>
+<p> berikut code nya <p>
+
+![gambar 7](labspy01/ss/7.png)
+<p> kemudian run, maka hasilnya seperti berikut <p>
+
+![gambar 8](labspy01/ss/8.png)
+
+
 
 # LABSPY02
 <h1> Latihan 1 <h1>
@@ -63,7 +106,7 @@ sama dengan bilangan lainnya, maka cetak pernyataan “BENAR” <p>
 <p> misal 4,9,5 <P>
 <p> maka hasilnya seperti berikut <p>
 
-![gambar 8](labspy/ss/8.png)
+![gambar 8](labspy02/ss/8.png)
 <p> outputnya adalah benar karna terdapat angka bilangan C+ bilangan A hasilnya bilangan B (4+5=9) <p>
 <p> berikut flowchartnya <p>
 
@@ -84,3 +127,5 @@ tersebut tampilkan bilangan terbesarnya. program ini menggunakan statement if...
 <p> flowchartnya seperti berikut <p>
 
 ![gambar 12](labspy02/ss/12.png)
+
+# LABSPY03 
